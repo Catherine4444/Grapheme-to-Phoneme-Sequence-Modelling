@@ -18,5 +18,5 @@ This Project contains a jupyter Notebook and a PDF report.
 report.pdf
 Contains all the analysis and relevant results in tables and Graphs. 
 
-graphene_.ipynb 
+Graphene_to_Phoneme_Sequence_Modelling.ipynb 
 Contains all the code that generates the results. 
