@@ -12,11 +12,11 @@ To set up this project, the required packages include the following:
 
 For the Notebook to run end to end, the third cell potentially requires configuration, where the 'kaggle' variable must be set to False and DIR_PATH variable must match the directory of the data. 
 
-# Assignment Content 
-This Assignment contains a jupyter Notebook and a PDF report. 
+# Project Content 
+This Project contains a jupyter Notebook and a PDF report. 
 
-LXXCAT004_CSC3042F_A2.pdf
+report.pdf
 Contains all the analysis and relevant results in tables and Graphs. 
 
-LXXCAT004_CSC3042F_A2.ipynb 
+graphene_.ipynb 
 Contains all the code that generates the results. 
